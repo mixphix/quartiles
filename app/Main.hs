@@ -1,4 +1,4 @@
-module Quartiles where
+module Main where
 
 import Data.Foldable
 import Data.List qualified as List
