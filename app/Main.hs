@@ -1,6 +1,6 @@
 module Main where
 
-import Data.Foldable
+import Data.Foldable (Foldable (fold))
 import Data.List qualified as List
 import Data.Text (Text)
 import Data.Text qualified as Text

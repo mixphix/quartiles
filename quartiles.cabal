@@ -32,5 +32,4 @@ executable quartiles
 
   build-depends:
     , base >= 4.18
-    , case-insensitive
     , text
