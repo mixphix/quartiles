@@ -17954,7 +17954,6 @@ apprizer
 apprizers
 apprizes
 apprizing
-appro
 approach
 approachability
 approachabl
@@ -22614,13 +22613,11 @@ athwarthawse
 athwartship
 athwartships
 athwartwise
-ati
 atik
 atikokania
 atilt
 atimy
 atimon
-ating
 atinga
 atingle
 atinkle
@@ -29576,7 +29573,6 @@ beaterman
 beatermen
 beaters
 beath
-beati
 beatify
 beatific
 beatifical
@@ -30674,7 +30670,6 @@ begottenness
 begoud
 begowk
 begowned
-begrace
 begray
 begrain
 begrave
@@ -31580,7 +31575,6 @@ benevolent
 benevolently
 benevolentness
 benevolist
-beng
 bengal
 bengalese
 bengali
@@ -31636,7 +31630,6 @@ bennettitaceous
 bennettitales
 bennettites
 bennetweed
-benni
 benny
 bennies
 bennis
@@ -31879,7 +31872,6 @@ bepewed
 bephilter
 bephrase
 bepicture
-bepiece
 bepierce
 bepile
 bepill
@@ -43774,14 +43766,8 @@ buzzwig
 buzzwigs
 buzzword
 buzzwords
-bv
-bvt
 bwana
 bwanas
-bx
-bxs
-bz
-c
 ca
 caaba
 caam
@@ -45464,7 +45450,6 @@ calve
 calved
 calver
 calves
-calvin
 calving
 calvinian
 calvinism
@@ -50257,7 +50242,6 @@ cebollite
 cebur
 cebus
 ceca
-cecal
 cecally
 cecca
 cecchine
@@ -50633,7 +50617,6 @@ cemetaries
 cemetery
 cemeterial
 cemeteries
-cen
 cenacle
 cenacles
 cenaculum
@@ -51453,7 +51436,6 @@ cerned
 cerning
 cerniture
 cernuous
-cero
 cerograph
 cerographer
 cerography
@@ -94961,7 +94943,6 @@ eburneoid
 eburneous
 eburnian
 eburnification
-ec
 ecad
 ecalcarate
 ecalcavate
@@ -94986,7 +94967,6 @@ ecbolic
 ecbolics
 ecca
 eccaleobion
-ecce
 eccentrate
 eccentric
 eccentrical
@@ -125070,7 +125050,6 @@ gynerium
 ginete
 gynethusia
 gynetype
-ging
 gingal
 gingall
 gingalls
@@ -125555,7 +125534,6 @@ givers
 gives
 gyves
 giveth
-givin
 giving
 gyving
 givingness
@@ -128298,7 +128276,6 @@ gpm
 gps
 gpss
 gr
-gra
 graafian
 graal
 graals
@@ -190606,20 +190583,8 @@ mizzles
 mizzly
 mizzling
 mizzonite
-mk
-mks
-mkt
-mktg
-ml
 mlange
 mlechchha
-mlx
-mm
-mmf
-mmfd
-mmmm
-mn
-mna
 mnage
 mnem
 mneme
@@ -235891,7 +235856,6 @@ pieceless
 piecemaker
 piecemeal
 piecemealwise
-piecen
 piecener
 piecer
 piecers
@@ -235993,6 +235957,7 @@ pierine
 pieris
 pierless
 pierlike
+pierogi
 pierre
 pierrette
 pierrot
@@ -236008,7 +235973,6 @@ piet
 pieta
 pietas
 piete
-pieter
 piety
 pietic
 pieties
@@ -251637,7 +251601,6 @@ programmers
 programmes
 programming
 programmist
-programmng
 programs
 progravid
 progrede
@@ -253800,7 +253763,6 @@ provinciate
 provinculum
 provine
 proving
-provingly
 proviral
 provirus
 proviruses
@@ -273829,7 +273791,6 @@ rondoletto
 rondos
 rondure
 rondures
-rong
 ronga
 rongeur
 ronggeng
@@ -273841,7 +273802,6 @@ ronions
 ronyons
 ronnel
 ronnels
-ronni
 ronquil
 ronsardian
 ronsardism
@@ -274314,7 +274274,6 @@ rote
 rotella
 rotenone
 rotenones
-roter
 rotes
 rotge
 rotgut
@@ -274660,7 +274619,6 @@ rovescio
 rovet
 rovetto
 roving
-rovingly
 rovingness
 rovings
 row
@@ -297794,7 +297752,6 @@ sozolic
 sozzle
 sozzled
 sozzly
-sp
 spa
 spaad
 space
@@ -298271,7 +298228,6 @@ spatially
 spatiate
 spatiation
 spatilomancy
-spating
 spatio
 spatiography
 spatiotemporal
@@ -301039,7 +300995,6 @@ sprockets
 sprod
 sprogue
 sproil
-sprong
 sprose
 sprot
 sproty
@@ -318787,7 +318742,6 @@ tequilas
 tequilla
 tequistlateca
 tequistlatecan
-ter
 tera
 teraglin
 terahertz
@@ -318805,7 +318759,6 @@ teras
 terass
 terata
 teratic
-teratical
 teratism
 teratisms
 teratoblastoma
@@ -318834,7 +318787,6 @@ terbias
 terbic
 terbium
 terbiums
-terce
 tercel
 tercelet
 tercelets
@@ -359341,7 +359293,6 @@ viminal
 vimineous
 vimpa
 vims
-vin
 vina
 vinaceous
 vinaconic
@@ -359363,7 +359314,6 @@ vinata
 vinblastine
 vinca
 vincas
-vince
 vincent
 vincentian
 vincenzo
@@ -359525,7 +359475,6 @@ vintages
 vintaging
 vintem
 vintener
-vinter
 vintlite
 vintner
 vintneress
