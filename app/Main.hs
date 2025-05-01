@@ -18,7 +18,7 @@ main :: IO ()
 main = do
   putStrLn "Enter a space-separated list of quartiles:"
   qs <- Text.words <$> Text.getLine
-  knownWords <- Set.fromList . Text.lines <$> Text.readFile "Top100000.txt"
+  knownWords <- Set.fromAscList . Text.lines <$> Text.readFile "Top100000.txt"
   let results = List.sort $ filter (`Set.member` knownWords) (quartiles qs)
   putStrLn $ show (length results) ++ " results"
   mapM_ Text.putStrLn results
