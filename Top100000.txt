@@ -1052,7 +1052,6 @@ abstinent
 abstinential
 abstinently
 abstort
-abstr
 abstract
 abstractable
 abstracted
@@ -36708,10 +36707,6 @@ blutwurst
 blvd
 blype
 blypes
-bm
-bn
-bnf
-bo
 boa
 boaedon
 boagane
@@ -37164,7 +37159,6 @@ bohereen
 bohireen
 bohmite
 boho
-bohor
 bohora
 bohorok
 bohunk
@@ -37265,7 +37259,6 @@ boldo
 boldoine
 boldos
 boldu
-bole
 bolection
 bolectioned
 boled
@@ -38298,7 +38291,6 @@ boschboks
 boschneger
 boschvark
 boschveld
-bose
 boselaphus
 boser
 bosey
@@ -102859,7 +102851,6 @@ epurate
 epuration
 epyllia
 epyllion
-eq
 eqpt
 equability
 equable
@@ -113488,7 +113479,6 @@ fjord
 fjorded
 fjords
 fjorgyn
-fl
 flab
 flabbella
 flabbergast
@@ -124354,7 +124344,6 @@ gheraoes
 gheraoing
 gherkin
 gherkins
-ghess
 ghetchoo
 ghetti
 ghetto
@@ -140706,7 +140695,6 @@ hoptoads
 hoptree
 hopvine
 hopyard
-hor
 hora
 horace
 horae
@@ -140967,7 +140955,6 @@ horsecraft
 horsed
 horsedom
 horsedrawing
-horseess
 horsefair
 horsefeathers
 horsefettler
@@ -145278,7 +145265,6 @@ iambographer
 iambs
 iambus
 iambuses
-ian
 ianthina
 ianthine
 ianthinite
@@ -151467,7 +151453,6 @@ infusoriform
 infusorioid
 infusorium
 infusory
-ing
 inga
 ingaevones
 ingaevonic
@@ -151540,7 +151525,6 @@ ingine
 ingirt
 ingiver
 ingiving
-ingle
 inglenook
 ingles
 inglesa
@@ -169447,7 +169431,6 @@ lesbian
 lesbianism
 lesbians
 lesche
-lese
 lesed
 lesgh
 lesion
@@ -196687,7 +196670,6 @@ nehantic
 nehemiah
 nehiloth
 nehru
-nei
 neif
 neifs
 neigh
@@ -281888,7 +281870,6 @@ seldomly
 seldomness
 seldor
 seldseen
-sele
 select
 selectable
 selectance
@@ -302554,7 +302535,6 @@ stows
 stowse
 stowth
 stowwood
-str
 stra
 strabism
 strabismal
@@ -303602,7 +303582,6 @@ structurist
 strude
 strudel
 strudels
-strue
 struggle
 struggled
 struggler
@@ -303643,10 +303622,6 @@ strums
 strumstrum
 strumulose
 strung
-strunt
-strunted
-strunting
-strunts
 struse
 strut
 struth
