@@ -50317,7 +50317,6 @@ ceilingwards
 ceilometer
 ceils
 ceint
-ceinte
 ceinture
 ceintures
 ceja
@@ -51447,7 +51446,6 @@ ceroxylon
 cerrero
 cerrial
 cerris
-cert
 certain
 certainer
 certainest
@@ -51660,7 +51658,6 @@ cetera
 ceterach
 cetes
 ceti
-cetic
 ceticide
 cetid
 cetin
@@ -96353,7 +96350,6 @@ ektenes
 ektexine
 ektexines
 ektodynamorphic
-el
 ela
 elabor
 elaborate
@@ -97350,7 +97346,6 @@ ellen
 ellenyard
 ellerian
 ellfish
-ellice
 ellick
 elling
 ellinge
@@ -104170,7 +104165,6 @@ esquisse
 esrog
 esrogim
 esrogs
-ess
 essancia
 essancias
 essang
@@ -116573,7 +116567,6 @@ foreknowingly
 foreknowledge
 foreknown
 foreknows
-forel
 foreladies
 forelady
 forelaid
@@ -117414,7 +117407,6 @@ forsooth
 forspeak
 forspeaking
 forspend
-forspent
 forspoke
 forspoken
 forspread
@@ -119808,8 +119800,6 @@ fulmining
 fulminous
 fulminurate
 fulminuric
-fulness
-fulnesses
 fulsamic
 fulsome
 fulsomely
@@ -165447,7 +165437,6 @@ labyrinthodontoid
 labyrinths
 labyrinthula
 labyrinthulidae
-lac
 lacatan
 lacca
 laccaic
@@ -165469,7 +165458,6 @@ laceflower
 laceier
 laceiest
 laceleaf
-laceless
 lacelike
 lacemaker
 lacemaking
@@ -171688,7 +171676,6 @@ lirot
 lis
 lisa
 lisbon
-lise
 lisere
 lisette
 lisiere
@@ -211353,7 +211340,6 @@ onotogenic
 onrush
 onrushes
 onrushing
-ons
 onset
 onsets
 onsetter
@@ -238673,7 +238659,6 @@ pnigerophobia
 pnigophobia
 pnxt
 pnyx
-po
 poa
 poaceae
 poaceous
@@ -240944,7 +240929,6 @@ poonga
 poongee
 poonghee
 poonghie
-poons
 poop
 pooped
 poophyte
@@ -255943,7 +255927,6 @@ qto
 qtr
 qts
 qty
-qu
 qua
 quaalude
 quaaludes
@@ -256827,7 +256810,6 @@ quenelle
 quenelles
 quenite
 quenselite
-quent
 quentise
 quercetagetin
 quercetic
@@ -257383,7 +257365,6 @@ quintars
 quintary
 quintaten
 quintato
-quinte
 quintefoil
 quintelement
 quintennial
@@ -260675,7 +260656,6 @@ reaward
 reaware
 reawoke
 reawoken
-reb
 rebab
 reback
 rebag
@@ -260788,7 +260768,6 @@ rebend
 rebending
 rebenediction
 rebenefit
-rebent
 rebeset
 rebesiege
 rebestow
@@ -273480,17 +273459,7 @@ rozener
 rozum
 rozzer
 rozzers
-rpm
-rps
-rpt
 rrhiza
-rsum
-rsvp
-rt
-rte
-rti
-rtw
-rua
 ruach
 ruana
 rub
@@ -281563,7 +281532,6 @@ seekerism
 seekers
 seeking
 seeks
-seel
 seeled
 seelful
 seelily
@@ -284279,7 +284247,6 @@ sequencies
 sequencing
 sequencings
 sequency
-sequent
 sequential
 sequentiality
 sequentialize
@@ -284833,7 +284800,6 @@ serrurerie
 serry
 serrying
 sers
-sert
 serta
 serting
 sertion
@@ -296772,7 +296738,6 @@ sphyraenoid
 sphyrapicus
 sphyrna
 sphyrnidae
-spial
 spic
 spica
 spicae
