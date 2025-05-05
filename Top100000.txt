@@ -18152,7 +18152,6 @@ archduke
 archdukedom
 archdukes
 archduxe
-arche
 archeal
 archean
 archearl
@@ -18739,7 +18738,6 @@ areotectonics
 arere
 arerola
 areroscope
-ares
 arest
 aret
 aretaics
@@ -49305,9 +49303,7 @@ cedula
 cedulas
 cedule
 ceduous
-cee
 ceennacuelum
-cees
 ceiba
 ceibas
 ceibo
@@ -49650,7 +49646,6 @@ censed
 censer
 censerless
 censers
-censes
 censing
 censitaire
 censive
@@ -52096,7 +52091,6 @@ chazzanut
 chazzen
 chazzenim
 chazzens
-che
 cheap
 cheapen
 cheapened
@@ -52237,8 +52231,6 @@ cheddaring
 cheddars
 cheddite
 cheddites
-cheder
-cheders
 chedite
 chedites
 chedlock
@@ -52592,7 +52584,6 @@ chemurgy
 chen
 chena
 chenar
-chende
 cheneau
 cheneaus
 cheneaux
@@ -52600,7 +52591,6 @@ chenet
 chenevixite
 cheney
 chenfish
-cheng
 chengal
 chenica
 chenier
@@ -52798,7 +52788,6 @@ chevet
 chevetaine
 cheveys
 chevied
-chevies
 cheville
 chevin
 cheviot
@@ -75492,7 +75481,6 @@ dclass
 dcollet
 dcolletage
 dcor
-dd
 ddname
 ddt
 dea
@@ -101272,7 +101260,6 @@ erythrozyme
 erythrulose
 eryx
 erzahler
-es
 esau
 esbatement
 esbay
@@ -136387,7 +136374,6 @@ hokum
 hokums
 hokypokies
 hokypoky
-hol
 hola
 holagogue
 holandric
@@ -197443,7 +197429,6 @@ nonfutile
 nonfuturistic
 nonfuturition
 nonfuturity
-nong
 nongalactic
 nongalvanized
 nongame
@@ -229511,7 +229496,6 @@ planforms
 planful
 planfully
 planfulness
-plang
 plangency
 plangent
 plangently
@@ -241727,7 +241711,6 @@ procyonine
 proczarist
 prod
 prodatary
-prodd
 prodded
 prodder
 prodders
@@ -243181,7 +243164,6 @@ proscribed
 proscriber
 proscribes
 proscribing
-proscript
 proscription
 proscriptional
 proscriptionist
@@ -271523,7 +271505,6 @@ scowman
 scowmen
 scows
 scowther
-scr
 scrab
 scrabble
 scrabbled
@@ -279132,7 +279113,6 @@ shtick
 shticks
 shtokavski
 shtreimel
-shu
 shuba
 shubunkin
 shuck
@@ -321669,7 +321649,6 @@ tyned
 tynes
 tyning
 tynwald
-typ
 typable
 typal
 typarchical
@@ -347193,7 +347172,6 @@ vining
 vinitor
 vinland
 vinny
-vino
 vinoacetous
 vinod
 vinolence
@@ -347211,7 +347189,6 @@ vinous
 vinously
 vinousness
 vinquish
-vins
 vint
 vinta
 vintage
