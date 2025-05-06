@@ -14,7 +14,7 @@ main :: IO ()
 main = do
   putStrLn "Enter a space-separated list of quartiles:"
   qs <- Text.words <$> Text.getLine
-  knownWords <- Set.fromDistinctAscList . Text.lines <$> Text.readFile "words.txt"
-  let results = List.sort $ filter (`Set.member` knownWords) (Text.concat <$> tiles 4 qs)
-  putStrLn $ show (length results) ++ " results"
-  mapM_ Text.putStrLn results
+  ws <- Set.fromDistinctAscList . Text.lines <$> Text.readFile "words.txt"
+  let rs = List.sort $ filter (`Set.member` ws) (Text.concat <$> tiles 4 qs)
+  putStrLn $ show (length rs) ++ " results"
+  mapM_ Text.putStrLn rs
