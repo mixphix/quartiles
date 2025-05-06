@@ -12982,7 +12982,6 @@ anionically
 anionics
 anions
 aniridia
-anis
 anisado
 anisal
 anisalcohol
@@ -13199,7 +13198,6 @@ annates
 annats
 annatto
 annattos
-anne
 anneal
 annealed
 annealer
@@ -13616,7 +13614,6 @@ anour
 anoura
 anoure
 anourous
-anous
 anova
 anovesical
 anovulant
@@ -111100,7 +111097,6 @@ flandan
 flanderkin
 flanders
 flandowser
-flane
 flanerie
 flaneries
 flanes
@@ -135472,7 +135468,6 @@ himwards
 himyaric
 himyarite
 himyaritic
-hin
 hinau
 hinayana
 hinch
@@ -135552,7 +135547,6 @@ hinsdalite
 hint
 hinted
 hintedly
-hinter
 hinterland
 hinterlander
 hinterlands
@@ -162267,7 +162261,6 @@ lames
 lamest
 lamester
 lamestery
-lameter
 lametta
 lamia
 lamiaceae
@@ -163094,7 +163087,6 @@ lariidae
 larikin
 larin
 larinae
-larine
 larithmic
 larithmics
 larix
@@ -163397,7 +163389,6 @@ lateralized
 lateralizing
 laterally
 laterals
-lateran
 latericeous
 latericumbent
 lateriflexion
@@ -169832,7 +169823,6 @@ lsc
 lst
 lt
 ltr
-lu
 luau
 luaus
 lub
@@ -170085,7 +170075,6 @@ luian
 luigi
 luigini
 luigino
-luis
 luiseno
 luite
 lujaurite
@@ -170104,7 +170093,6 @@ lukewarmish
 lukewarmly
 lukewarmness
 lukewarmth
-lula
 lulab
 lulabim
 lulabs
@@ -170185,7 +170173,6 @@ lumbus
 lumen
 lumenal
 lumens
-lumeter
 lumina
 luminaire
 luminal
@@ -170453,7 +170440,6 @@ lures
 luresome
 lurg
 lurgworm
-luri
 lurid
 luridity
 luridly
@@ -170598,7 +170584,6 @@ luteotropic
 luteotropin
 luteous
 luteovirescent
-luter
 lutes
 lutescent
 lutestring
@@ -176955,7 +176940,6 @@ mekilta
 mekometer
 mekong
 mel
-mela
 melaconite
 melada
 meladiorite
@@ -177616,7 +177600,6 @@ mendole
 mendozite
 mends
 mendy
-mene
 meneghinite
 menehune
 menelaus
@@ -178104,7 +178087,6 @@ meriquinone
 meriquinonic
 meriquinonoid
 merises
-merisis
 merism
 merismatic
 merismoid
@@ -178122,7 +178104,6 @@ meritable
 merited
 meritedly
 meritedness
-meriter
 meritful
 meriting
 meritless
@@ -179357,7 +179338,6 @@ mete
 metecorn
 meted
 metegritics
-metel
 metely
 metempiric
 metempirical
@@ -192168,7 +192148,6 @@ nematospora
 nematozooid
 nembutal
 nembutsu
-nemean
 nemertea
 nemertean
 nemertian
@@ -192609,7 +192588,6 @@ nereids
 nereis
 nereite
 nereocystis
-neri
 nerine
 nerita
 nerite
@@ -192747,7 +192725,6 @@ netbush
 netcha
 netchilik
 nete
-neter
 netful
 netheist
 nether
@@ -214077,7 +214054,6 @@ owenism
 owenist
 owenite
 owenize
-ower
 owerance
 owerby
 owercome
@@ -263211,7 +263187,6 @@ rindle
 rindless
 rinds
 rindy
-rine
 rinforzando
 ring
 ringable
@@ -306832,7 +306807,6 @@ tektosi
 tektosil
 tektosilicate
 tekya
-tel
 tela
 telacoustic
 telae
@@ -307241,7 +307215,6 @@ tellureted
 tellurethyl
 telluretted
 tellurhydric
-tellurian
 telluric
 telluride
 telluriferous
@@ -308275,7 +308248,6 @@ ternately
 ternatipinnate
 ternatisect
 ternatopinnate
-terne
 terned
 terneplate
 terner
@@ -308392,7 +308364,6 @@ terrestrious
 terret
 terreted
 terrets
-terri
 terribilita
 terribility
 terrible
