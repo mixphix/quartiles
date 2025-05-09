@@ -1191,7 +1191,6 @@ abyssobenthonic
 abyssolith
 abyssopelagic
 abyssus
-ac
 acacatechin
 acacatechol
 acacetin
@@ -1378,7 +1377,6 @@ acataphasia
 acataposis
 acatastasia
 acatastatic
-acate
 acategorical
 acater
 acatery
@@ -3180,7 +3178,6 @@ activized
 activizing
 actless
 actomyosin
-acton
 actor
 actorish
 actors
@@ -19741,7 +19738,6 @@ artemisin
 artemision
 artemisium
 artemon
-arter
 arteria
 arteriac
 arteriae
@@ -21710,7 +21706,6 @@ atechnic
 atechnical
 atechny
 ated
-atees
 ateeter
 atef
 ateknia
@@ -24440,7 +24435,6 @@ ayurvedas
 ayuyu
 aywhere
 ayyubid
-az
 azadirachta
 azadrachta
 azafran
@@ -51517,7 +51511,6 @@ chara
 charabanc
 charabancer
 charabancs
-charac
 characeae
 characeous
 characetum
@@ -51601,7 +51594,6 @@ chare
 chared
 charely
 charer
-chares
 charet
 chareter
 charette
@@ -51720,7 +51712,6 @@ charmingly
 charmingness
 charmless
 charmlessly
-charmonium
 charms
 charmwise
 charneco
@@ -77075,7 +77066,6 @@ deerweeds
 deerwood
 deeryard
 deeryards
-dees
 deescalate
 deescalated
 deescalates
@@ -81146,7 +81136,6 @@ detonations
 detonative
 detonator
 detonators
-detonize
 detorsion
 detort
 detour
@@ -101323,7 +101312,6 @@ escarteled
 escartelly
 eschalot
 eschalots
-eschar
 eschara
 escharine
 escharoid
@@ -101762,7 +101750,6 @@ esterifies
 esterify
 esterifying
 esterization
-esterize
 esterizing
 esterlin
 esterling
@@ -184755,7 +184742,6 @@ momser
 momus
 momuses
 momzer
-mon
 mona
 monacan
 monacanthid
@@ -184895,7 +184881,6 @@ mondayish
 mondayishness
 mondayland
 mondays
-monde
 mondego
 mondes
 mondial
@@ -185988,7 +185973,6 @@ montmartrite
 montmorency
 montmorillonite
 montmorilonite
-monton
 montpelier
 montrachet
 montre
@@ -216725,7 +216709,6 @@ pantelephone
 pantelephonic
 pantelis
 pantellerite
-panter
 panterer
 panthea
 pantheian
@@ -216819,7 +216802,6 @@ pantomnesic
 pantomorph
 pantomorphia
 pantomorphic
-panton
 pantonal
 pantonality
 pantoon
@@ -217050,7 +217032,6 @@ papistly
 papistries
 papistry
 papists
-papize
 papless
 paplike
 papmeat
@@ -229088,13 +229069,6 @@ pizzerias
 pizzicato
 pizzle
 pizzles
-pk
-pkg
-pkgs
-pks
-pkt
-pkwy
-pl
 placability
 placabilty
 placable
@@ -308045,7 +308019,6 @@ terephah
 terephthalate
 terephthalic
 terephthallic
-teres
 teresa
 teresian
 teresina
@@ -308165,7 +308138,6 @@ termlessly
 termlessness
 termly
 termolecular
-termon
 termor
 termors
 terms
@@ -308406,7 +308378,6 @@ tertii
 tertio
 tertium
 tertius
-terton
 tertrinal
 tertulia
 tertullianism
