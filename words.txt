@@ -18687,7 +18687,6 @@ arenoid
 arenose
 arenosity
 arenous
-arent
 arenulous
 areocentric
 areographer
@@ -19122,9 +19121,7 @@ arkosic
 arks
 arksutite
 arkwright
-arle
 arlene
-arleng
 arlequinade
 arles
 arless
@@ -36295,7 +36292,6 @@ boiloff
 boiloffs
 boilover
 boils
-boily
 boing
 bois
 boise
@@ -36503,7 +36499,6 @@ bolus
 boluses
 bolyaian
 bom
-boma
 bomarea
 bomb
 bombable
@@ -36590,7 +36585,6 @@ bombyliidae
 bombylious
 bombyx
 bombyxes
-bomi
 bomos
 bon
 bona
@@ -36714,7 +36708,6 @@ boneyards
 bonfire
 bonfires
 bong
-bongar
 bonged
 bonging
 bongo
@@ -37147,7 +37140,6 @@ bopyridae
 bopyridian
 bopyrus
 bora
-borable
 boraces
 borachio
 boracic
@@ -92334,7 +92326,6 @@ eagres
 ealderman
 ealdorman
 ealdormen
-eam
 ean
 eaning
 eanling
@@ -133998,7 +133989,6 @@ herl
 herling
 herls
 herm
-herma
 hermae
 hermaean
 hermai
@@ -134032,7 +134022,6 @@ hermeticism
 hermetics
 hermetism
 hermetist
-hermi
 hermidin
 herminone
 hermione
@@ -145075,7 +145064,6 @@ inarguably
 inark
 inarm
 inarmed
-inarming
 inarms
 inarticulacy
 inarticulata
@@ -148064,7 +148052,6 @@ inheritrice
 inheritrices
 inheritrix
 inherits
-inherle
 inhesion
 inhesions
 inhesive
@@ -149304,7 +149291,6 @@ institutrix
 instonement
 instop
 instore
-instr
 instratified
 instreaming
 instrengthen
@@ -164166,7 +164152,6 @@ leaping
 leapingly
 leaps
 leapt
-lear
 learchus
 learier
 leariest
@@ -170988,13 +170973,11 @@ lytta
 lyttae
 lyttas
 lyxose
-m
 ma
 maad
 maam
 maamselle
 maana
-maar
 maars
 maarten
 maat
@@ -172181,7 +172164,6 @@ maimul
 main
 mainan
 mainbrace
-maine
 mainferre
 mainframe
 mainframes
@@ -172651,8 +172633,6 @@ malemute
 malemutes
 maleness
 malenesses
-malengin
-malengine
 malentendu
 maleo
 maleos
@@ -173387,7 +173367,7 @@ manganosite
 manganostibiite
 manganous
 manganpectolite
-mangar
+manga
 mangas
 mangbattu
 mange
@@ -173408,7 +173388,6 @@ mangi
 mangier
 mangiest
 mangifera
-mangily
 manginess
 mangle
 mangled
@@ -179799,8 +179778,6 @@ mho
 mhometer
 mhorr
 mhos
-mhz
-mi
 mia
 miacis
 miae
@@ -181329,8 +181306,6 @@ milvus
 milwaukee
 milwell
 milzbrand
-mim
-mima
 mimamsa
 mimbar
 mimbars
@@ -181870,7 +181845,6 @@ mirabilia
 mirabiliary
 mirabilis
 mirabilite
-mirable
 mirac
 mirach
 miracicidia
@@ -186924,7 +186898,6 @@ mosts
 mostwhat
 mosul
 mosur
-mot
 mota
 motacil
 motacilla
@@ -188454,7 +188427,6 @@ mumbletypeg
 mumbling
 mumblingly
 mumblings
-mumbo
 mumbudget
 mumchance
 mume
@@ -188477,7 +188449,6 @@ mummifies
 mummiform
 mummify
 mummifying
-mumming
 mumms
 mummy
 mummydom
@@ -249624,7 +249595,6 @@ rabietic
 rabific
 rabiform
 rabigenic
-rabin
 rabinet
 rabious
 rabirubia
@@ -294020,7 +293990,6 @@ strengthless
 strengthlessly
 strengths
 strengthy
-strent
 strenth
 strenuity
 strenuosity
@@ -355383,11 +355352,6 @@ xantippe
 xarque
 xat
 xaverian
-xc
-xcl
-xctl
-xd
-xdiv
 xebec
 xebecs
 xema
