@@ -27580,7 +27580,6 @@ barytones
 barytons
 barytophyllite
 barytosulphate
-basad
 basal
 basale
 basalia
@@ -27944,7 +27943,6 @@ basten
 baster
 basters
 bastes
-basti
 bastian
 bastide
 bastile
@@ -27952,7 +27950,6 @@ bastiles
 bastille
 bastilles
 bastillion
-bastiment
 bastinade
 bastinaded
 bastinades
@@ -28474,16 +28471,6 @@ bazookamen
 bazookas
 bazoos
 bazzite
-bb
-bbl
-bbls
-bbs
-bcd
-bcf
-bch
-bchs
-bd
-bde
 bdellatomy
 bdellid
 bdellidae
@@ -39056,7 +39043,6 @@ breadlessness
 breadline
 breadmaker
 breadmaking
-breadman
 breadness
 breadnut
 breadnuts
@@ -39282,8 +39268,6 @@ brelan
 brelaw
 breloque
 brember
-breme
-bremely
 bremeness
 bremia
 bremsstrahlung
@@ -39296,7 +39280,6 @@ brendice
 brennage
 brennschluss
 brens
-brent
 brenthis
 brents
 brephic
@@ -70210,7 +70193,6 @@ crisply
 crispness
 crisps
 crispy
-criss
 crissa
 crissal
 crisscross
@@ -141868,7 +141850,6 @@ hyte
 hythergraph
 hyzone
 i
-ia
 iacchic
 iacchos
 iacchus
@@ -153388,7 +153369,6 @@ isethionic
 iseult
 iseum
 isfahan
-ish
 ishime
 ishmael
 ishmaelite
@@ -170919,7 +170899,6 @@ lysander
 lysate
 lysates
 lyse
-lysed
 lysenkoism
 lysergic
 lyses
@@ -177703,7 +177682,6 @@ mensurational
 mensurative
 menswear
 menswears
-ment
 menta
 mentagra
 mental
@@ -178701,7 +178679,6 @@ messiness
 messing
 messire
 messkit
-messman
 messmate
 messmates
 messmen
@@ -312486,7 +312463,6 @@ tinsy
 tint
 tinta
 tintack
-tintage
 tintamar
 tintamarre
 tintarron
@@ -344253,7 +344229,6 @@ vapulation
 vapulatory
 vaquero
 vaqueros
-var
 vara
 varactor
 varahan
@@ -344279,7 +344254,6 @@ varella
 vareuse
 vargueno
 vari
-varia
 variabilities
 variability
 variable
@@ -344294,7 +344268,6 @@ variance
 variances
 variancy
 variant
-variantly
 variants
 variate
 variated
@@ -344419,8 +344392,6 @@ varletry
 varlets
 varletto
 varmannie
-varment
-varments
 varmint
 varmints
 varna
