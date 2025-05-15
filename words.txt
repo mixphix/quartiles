@@ -13235,7 +13235,6 @@ annexitis
 annexive
 annexment
 annexure
-anni
 annicut
 annidalin
 annie
@@ -13263,7 +13262,6 @@ anniversarily
 anniversariness
 anniversary
 anniverse
-anno
 annodated
 annominate
 annomination
@@ -17640,7 +17638,6 @@ aquose
 aquosity
 aquotization
 aquotize
-ara
 arab
 araba
 araban
@@ -34780,7 +34777,6 @@ blathery
 blatiform
 blatjang
 blats
-blatta
 blattariae
 blatted
 blatter
@@ -45930,7 +45926,6 @@ capreoline
 capreolus
 capreomycin
 capretto
-capri
 capric
 capriccetto
 capriccettos
@@ -69411,10 +69406,6 @@ crazingmill
 crazy
 crazycat
 crazyweed
-crc
-crcao
-crche
-cre
 crea
 creach
 creachy
@@ -69607,7 +69598,6 @@ creeler
 creeling
 creels
 creem
-creen
 creep
 creepage
 creepages
@@ -69638,6 +69628,7 @@ creeshie
 creeshing
 creeshy
 creirgist
+crema
 cremaillere
 cremains
 cremant
@@ -69778,7 +69769,6 @@ crepusculum
 crepy
 cres
 cresamine
-cresc
 crescence
 crescendi
 crescendo
@@ -69788,7 +69778,6 @@ crescendos
 crescent
 crescentade
 crescentader
-crescented
 crescentia
 crescentic
 crescentiform
@@ -96211,7 +96200,6 @@ emydosauria
 emydosaurian
 emyds
 emys
-en
 enable
 enabled
 enablement
@@ -113472,7 +113460,6 @@ forbiddingness
 forbids
 forbit
 forbite
-forblack
 forbled
 forblow
 forbode
@@ -113998,7 +113985,6 @@ forerunnership
 forerunning
 forerunnings
 foreruns
-fores
 foresaddle
 foresaid
 foresail
@@ -120027,13 +120013,6 @@ gazpachos
 gazump
 gazy
 gazzetta
-gcd
-gconv
-gconvert
-gd
-gdinfo
-gds
-ge
 geadephaga
 geadephagous
 geal
@@ -120071,7 +120050,6 @@ gebur
 gecarcinian
 gecarcinidae
 gecarcinus
-geck
 gecked
 gecking
 gecko
@@ -121310,7 +121288,6 @@ gervais
 gervao
 gervas
 gervase
-gery
 gerygone
 geryon
 geryonia
@@ -152615,9 +152592,6 @@ ipseity
 ipsilateral
 ipsilaterally
 ipso
-iq
-iqs
-ir
 ira
 iracund
 iracundity
@@ -152794,7 +152768,6 @@ irks
 irksome
 irksomely
 irksomeness
-irma
 iroha
 irok
 iroko
@@ -167499,7 +167472,6 @@ liripipes
 liripoop
 liroconite
 lirot
-lis
 lisa
 lisbon
 lisere
@@ -172197,7 +172169,6 @@ maiolica
 maiolicas
 maiongkong
 maipure
-mair
 mairatour
 maire
 mairie
@@ -174201,7 +174172,6 @@ marguerites
 margullie
 marhala
 marheshvan
-mari
 maria
 mariachi
 mariachis
@@ -174770,7 +174740,6 @@ masaridid
 masarididae
 masaridinae
 masaris
-masc
 mascagnine
 mascagnite
 mascally
@@ -174778,7 +174747,6 @@ mascara
 mascaras
 mascaron
 maschera
-mascle
 mascled
 mascleless
 mascon
@@ -203660,7 +203628,6 @@ ocypodoid
 ocyroe
 ocyroidae
 ocyte
-od
 oda
 odacidae
 odacoid
@@ -248237,7 +248204,6 @@ quantum
 quapaw
 quaquaversal
 quaquaversally
-quar
 quarantinable
 quarantine
 quarantined
@@ -248674,7 +248640,6 @@ query
 querying
 queryingly
 queryist
-ques
 quesal
 quesited
 quesitive
@@ -258222,7 +258187,6 @@ repelling
 repellingly
 repellingness
 repels
-repen
 repenalize
 repenalized
 repenalizing
@@ -262951,7 +262915,6 @@ rills
 rillstone
 rilly
 rim
-rima
 rimal
 rimas
 rimate
@@ -265952,8 +265915,6 @@ rypophobia
 rytidosis
 rytina
 ryukyu
-s
-sa
 saa
 saad
 saan
@@ -268457,7 +268418,6 @@ sarrazin
 sarrow
 sarrusophone
 sarrusophonist
-sarsa
 sarsaparilla
 sarsaparillas
 sarsaparillin
@@ -268983,7 +268943,6 @@ saveloys
 savement
 saver
 savers
-savery
 saves
 savey
 savile
@@ -269200,12 +269159,10 @@ sayyid
 sayyids
 sazen
 sazerac
-sb
 sbaikian
 sbirro
 sblood
 sbodikins
-sc
 scab
 scabbado
 scabbard
@@ -306421,7 +306378,6 @@ tedescan
 tedesche
 tedeschi
 tedesco
-tedge
 tediosity
 tedious
 tediously
@@ -311957,7 +311913,6 @@ tikoloshe
 tikoor
 tikor
 tikur
-til
 tilaite
 tilak
 tilaka
@@ -321607,7 +321562,6 @@ tyramin
 tyramine
 tyramines
 tyranness
-tyranni
 tyrannial
 tyrannic
 tyrannical
@@ -321655,7 +321609,6 @@ tyrasole
 tyre
 tyred
 tyremesis
-tyres
 tyrian
 tyriasis
 tyring
@@ -342950,7 +342903,6 @@ urpriser
 urradhus
 urrhodin
 urrhodinic
-urs
 ursa
 ursae
 ursal
@@ -344719,7 +344671,6 @@ veering
 veeringly
 veers
 veery
-vees
 vefry
 veg
 vega
@@ -345785,9 +345736,7 @@ verruculose
 verruga
 verrugas
 verry
-versa
 versability
-versable
 versableness
 versailles
 versant
