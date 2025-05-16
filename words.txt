@@ -25672,7 +25672,6 @@ bairnteam
 bairnteem
 bairntime
 bairnwort
-bais
 baisakh
 baisemain
 baister
@@ -26341,7 +26340,6 @@ bambute
 bammed
 bamming
 bamoth
-bams
 ban
 bana
 banaba
@@ -27892,7 +27890,6 @@ bassly
 bassness
 bassnesses
 basso
-basson
 bassoon
 bassoonist
 bassoonists
@@ -50238,8 +50235,6 @@ cerecloth
 cerecloths
 cered
 cereless
-cerement
-cerements
 ceremonial
 ceremonialism
 ceremonialist
@@ -50288,7 +50283,6 @@ cering
 cerinthe
 cerinthian
 ceriomyces
-cerion
 cerionidae
 ceriops
 ceriornis
@@ -50351,7 +50345,6 @@ certainly
 certainness
 certainties
 certainty
-certes
 certhia
 certhiidae
 certie
@@ -95100,7 +95093,6 @@ elytrtra
 elytrum
 elzevir
 elzevirian
-em
 emacerate
 emacerated
 emaceration
@@ -95827,6 +95819,8 @@ emmove
 emmy
 emodin
 emodins
+emoji
+emojis
 emollescence
 emolliate
 emollience
@@ -96063,7 +96057,6 @@ empowered
 empowering
 empowerment
 empowers
-emprent
 empresa
 empresario
 empress
@@ -96076,7 +96069,6 @@ emprime
 emprint
 emprise
 emprises
-emprison
 emprize
 emprizes
 emprosthotonic
@@ -98835,7 +98827,6 @@ entrenches
 entrenching
 entrenchment
 entrenchments
-entrep
 entrepas
 entrepeneur
 entrepeneurs
@@ -125034,7 +125025,6 @@ graceless
 gracelessly
 gracelessness
 gracelike
-gracer
 graces
 gracias
 gracilaria
@@ -153264,8 +153254,6 @@ isauxesis
 isauxetic
 isawa
 isazoxy
-isba
-isbas
 iscariot
 iscariotic
 iscariotical
@@ -153405,8 +153393,6 @@ islets
 isleward
 isling
 islot
-isls
-ism
 ismaelian
 ismaelism
 ismaelite
@@ -153420,13 +153406,8 @@ ismal
 ismatic
 ismatical
 ismaticalness
-ismdom
-isms
-ismy
-isn
 isnad
 isnardia
-isnt
 iso
 isoabnormal
 isoagglutinin
@@ -161442,7 +161423,6 @@ lacinula
 lacinulas
 lacinulate
 lacinulose
-lacis
 lack
 lackadaisic
 lackadaisical
@@ -161491,8 +161471,6 @@ laconicism
 laconicness
 laconics
 laconicum
-laconism
-laconisms
 laconize
 laconized
 laconizer
@@ -187389,40 +187367,12 @@ mozzarella
 mozzetta
 mozzettas
 mozzette
-mp
 mpangwe
-mpb
-mpbs
-mpg
-mph
-mphps
 mpondo
 mpret
-mr
-mrem
 mridang
 mridanga
 mridangas
-mrs
-mru
-ms
-msalliance
-msec
-msg
-msink
-msl
-msource
-mss
-mster
-mt
-mtd
-mtg
-mtge
-mtier
-mtn
-mts
-mtscmd
-mtx
 mu
 muang
 mubarat
@@ -205051,7 +205001,6 @@ onanists
 onboard
 onca
 once
-oncer
 onces
 oncet
 oncetta
@@ -205132,7 +205081,6 @@ oneiroscopist
 oneiroscopy
 oneirotic
 oneism
-onement
 oneness
 onenesses
 oner
@@ -205271,7 +205219,6 @@ ontal
 ontarian
 ontaric
 ontario
-ontic
 ontically
 onto
 ontocycle
@@ -214412,7 +214359,6 @@ ozophene
 ozostomia
 ozotype
 ozs
-p
 pa
 paal
 paaneleinrg
@@ -235325,20 +235271,6 @@ pozzolans
 pozzuolana
 pozzuolanic
 pozzy
-pp
-ppa
-ppb
-ppd
-pph
-ppi
-ppl
-ppm
-ppr
-pps
-ppt
-pptn
-pq
-pr
 praam
 praams
 prabble
@@ -238405,7 +238337,6 @@ prelusorily
 prelusory
 preluxurious
 preluxuriously
-prem
 premachine
 premade
 premadness
@@ -238488,7 +238419,6 @@ premenaced
 premenacing
 premenstrual
 premenstrually
-premention
 premeridian
 premerit
 premetallic
@@ -242341,7 +242271,6 @@ promycelia
 promycelial
 promycelium
 promythic
-pron
 pronaoi
 pronaos
 pronate
@@ -311599,7 +311528,6 @@ ticals
 ticca
 ticchen
 tice
-ticement
 ticer
 tichel
 tichodroma
