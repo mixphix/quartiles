@@ -39898,7 +39898,6 @@ broche
 brochette
 brochettes
 brochidodromous
-brocho
 brochophony
 brocht
 brochure
@@ -39912,8 +39911,6 @@ brockets
 brockish
 brockle
 brocks
-brocoli
-brocolis
 brod
 brodder
 broddle
@@ -53852,11 +53849,7 @@ chlorpromazine
 chlorpropamide
 chlorsalol
 chloryl
-chm
-chmn
-chn
 chnuphis
-cho
 choachyte
 choak
 choana
@@ -53889,7 +53882,6 @@ chockler
 chockman
 chocks
 chockstone
-choco
 chocoan
 chocolate
 chocolates
@@ -53902,7 +53894,6 @@ choctaws
 choel
 choenix
 choeropsis
-choes
 choffer
 choga
 chogak
@@ -54054,7 +54045,6 @@ cholesteryl
 choletelin
 choletherapy
 choleuria
-choli
 choliamb
 choliambic
 choliambist
@@ -54093,8 +54083,6 @@ choltry
 cholum
 choluria
 choluteca
-chomage
-chomer
 chomp
 chomped
 chomper
@@ -54211,7 +54199,6 @@ chook
 chookie
 chookies
 chooky
-choom
 choop
 choora
 choosable
@@ -54382,7 +54369,6 @@ chorisis
 chorism
 choriso
 chorisos
-chorist
 choristate
 chorister
 choristers
@@ -58234,7 +58220,6 @@ cnidopod
 cnidosac
 cnidoscolus
 cnidosis
-co
 coabode
 coabound
 coabsume
@@ -59490,7 +59475,6 @@ coerected
 coerecting
 coerects
 coeruleolactite
-coes
 coesite
 coesites
 coessential
@@ -60124,7 +60108,6 @@ colewort
 coleworts
 coley
 colfox
-coli
 coliander
 colias
 colibacillosis
@@ -60133,7 +60116,6 @@ colibert
 colibertus
 colibri
 colic
-colical
 colichemarde
 colicin
 colicine
@@ -60147,7 +60129,6 @@ colics
 colicweed
 colicwort
 colicystitis
-colies
 coliform
 coliforms
 coliidae
@@ -65476,7 +65457,6 @@ coolung
 coolweed
 coolwort
 cooly
-coom
 coomb
 coombe
 coombes
@@ -123512,10 +123492,8 @@ glyptology
 glyptotheca
 glyptotherium
 glyster
-gm
 gmelina
 gmelinite
-gn
 gnabble
 gnaeus
 gnamma
@@ -136548,7 +136526,6 @@ holstered
 holsters
 holt
 holts
-holw
 holy
 holyday
 holydays
@@ -136559,7 +136536,6 @@ holystones
 holystoning
 holytide
 holytides
-hom
 homacanth
 homage
 homageable
@@ -136722,6 +136698,8 @@ homeroom
 homerooms
 homers
 homes
+homeschool
+homeschools
 homeseeker
 homesick
 homesickly
@@ -142070,6 +142048,7 @@ iciness
 icinesses
 icing
 icings
+ick
 icker
 ickers
 ickier
@@ -154191,9 +154170,7 @@ itineritious
 itineritis
 itineritive
 itinerous
-itll
 itmo
-ito
 itoism
 itoist
 itoland
@@ -166343,9 +166320,7 @@ ligitimized
 ligitimizing
 lignaloes
 lignatile
-ligne
 ligneous
-lignes
 lignescent
 lignicole
 lignicoline
@@ -166378,7 +166353,6 @@ lignosity
 lignosulfonate
 lignosulphite
 lignosulphonate
-lignous
 lignum
 lignums
 ligroin
@@ -166586,7 +166560,6 @@ limeman
 limen
 limens
 limequat
-limer
 limerick
 limericks
 limes
@@ -167756,7 +167729,6 @@ lithuanic
 lithuresis
 lithuria
 lithy
-liti
 litigable
 litigant
 litigants
@@ -177679,8 +177651,6 @@ mephitis
 mephitises
 mephitism
 meprobamate
-meq
-mer
 merak
 meralgia
 meraline
@@ -177689,7 +177659,6 @@ meratia
 merbaby
 merbromin
 merc
-mercal
 mercantile
 mercantilely
 mercantilism
@@ -177834,7 +177803,6 @@ merengued
 merengues
 merenguing
 merer
-meres
 meresman
 meresmen
 merest
@@ -262592,7 +262560,6 @@ riemannean
 riemannian
 riempie
 rier
-ries
 riesling
 riever
 rievers
@@ -262811,8 +262778,6 @@ rimbase
 rime
 rimed
 rimeless
-rimer
-rimers
 rimery
 rimes
 rimester
@@ -263130,7 +263095,6 @@ rissoidae
 rissole
 rissoles
 rissom
-rist
 ristori
 risus
 risuses
@@ -311476,7 +311440,6 @@ tibourbou
 tiburon
 tiburtine
 tic
-tical
 ticals
 ticca
 ticchen
