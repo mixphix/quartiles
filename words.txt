@@ -1258,7 +1258,6 @@ acalyptratae
 acalyptrate
 acamar
 acampsia
-acana
 acanaceous
 acanonical
 acanth
@@ -11227,7 +11226,6 @@ amyxorrhea
 amyxorrhoea
 amzel
 an
-ana
 anabaena
 anabaenas
 anabantid
@@ -11315,7 +11313,6 @@ anachronously
 anachueta
 anacid
 anacidity
-anack
 anaclasis
 anaclastic
 anaclastics
@@ -58948,7 +58945,6 @@ cockling
 cockloche
 cockloft
 cocklofts
-cockly
 cockmaster
 cockmatch
 cockmate
@@ -59960,7 +59956,6 @@ coistrel
 coistrels
 coistril
 coistrils
-coit
 coital
 coitally
 coition
@@ -60913,7 +60908,6 @@ colures
 colusite
 colutea
 colville
-coly
 colyba
 colymbidae
 colymbiform
@@ -61102,7 +61096,6 @@ comedowns
 comedy
 comelier
 comeliest
-comelily
 comeliness
 comeling
 comely
@@ -61473,10 +61466,8 @@ commixing
 commixt
 commixtion
 commixture
-commo
 commodata
 commodatary
-commodate
 commodation
 commodatum
 commode
@@ -65474,7 +65465,6 @@ coonily
 cooniness
 coonjine
 coonroot
-coons
 coonskin
 coonskins
 coontah
@@ -67412,7 +67402,6 @@ coteau
 coteaux
 coted
 coteen
-coteful
 cotehardie
 cotele
 coteline
@@ -165709,7 +165698,6 @@ liaising
 liaison
 liaisons
 liamba
-liana
 lianas
 liane
 lianes
@@ -166018,7 +166006,6 @@ licorices
 licorn
 licorne
 licorous
-licour
 lictor
 lictorian
 lictors
@@ -166624,7 +166611,6 @@ limma
 limmata
 limmer
 limmers
-limmock
 limmu
 limn
 limnal
@@ -167480,7 +167466,6 @@ litatu
 litch
 litchi
 litchis
-lite
 liter
 literacies
 literacy
@@ -175945,7 +175930,6 @@ meathooks
 meatic
 meatier
 meatiest
-meatily
 meatiness
 meatless
 meatman
@@ -176022,7 +176006,6 @@ mechitzah
 mechitzoth
 mechlin
 mechoacan
-meck
 meckelectomy
 meckelian
 mecklenburgian
@@ -179106,7 +179089,6 @@ mete
 metecorn
 meted
 metegritics
-metely
 metempiric
 metempirical
 metempirically
@@ -233063,7 +233045,6 @@ pomivorous
 pommado
 pommage
 pommard
-pomme
 pommee
 pommel
 pommeled
@@ -249111,7 +249092,6 @@ quitclaimed
 quitclaiming
 quitclaims
 quite
-quitely
 quitemoca
 quiteno
 quiteve
@@ -306172,11 +306152,9 @@ technonomy
 technostructure
 techous
 techy
-teck
 tecla
 tecnoctonia
 tecnology
-teco
 tecoma
 tecomin
 tecon
@@ -306784,7 +306762,6 @@ telfords
 telharmonic
 telharmonium
 telharmony
-teli
 telia
 telial
 telic
@@ -342172,7 +342149,6 @@ uramino
 uran
 uranalyses
 uranalysis
-uranate
 urania
 uranian
 uranic
