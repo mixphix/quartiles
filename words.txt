@@ -1391,7 +1391,6 @@ acaulescent
 acauline
 acaulose
 acaulous
-acc
 acca
 accable
 accademia
@@ -1639,7 +1638,6 @@ accompanying
 accompanyist
 accomplement
 accompletive
-accompli
 accomplice
 accomplices
 accompliceship
@@ -1755,8 +1753,6 @@ accretionary
 accretions
 accretive
 accriminate
-accroach
-accroached
 accroaching
 accroachment
 accroides
@@ -1768,9 +1764,7 @@ accrued
 accruement
 accruer
 accrues
-accruing
-acct
-accts
+accruing=
 accubation
 accubita
 accubitum
@@ -11994,7 +11988,6 @@ ancle
 ancodont
 ancoly
 ancome
-ancon
 ancona
 anconad
 anconagra
@@ -12056,7 +12049,6 @@ andean
 anders
 anderson
 anderun
-andes
 andesic
 andesine
 andesinite
@@ -50488,7 +50480,6 @@ cesspits
 cesspool
 cesspools
 cest
-cesta
 cestas
 ceste
 cesti
@@ -50533,7 +50524,6 @@ cetene
 ceteosaur
 cetera
 ceterach
-cetes
 ceti
 ceticide
 cetid
@@ -50581,16 +50571,6 @@ ceylonite
 ceyssatite
 ceyx
 cezannesque
-cf
-cfd
-cfh
-cfi
-cfm
-cfs
-cg
-cgm
-cgs
-ch
 cha
 chaa
 chab
@@ -51137,14 +51117,12 @@ champs
 champy
 chams
 chamsin
-chan
 chanabal
 chanca
 chance
 chanceable
 chanceably
 chanced
-chanceful
 chancefully
 chancefulness
 chancel
@@ -53300,8 +53278,6 @@ chinovnik
 chinpiece
 chinquapin
 chins
-chinse
-chinsed
 chinsing
 chint
 chints
@@ -56177,7 +56153,6 @@ cissoids
 cissus
 cissy
 cist
-cista
 cistaceae
 cistaceous
 cistae
@@ -63733,8 +63708,6 @@ conkers
 conking
 conks
 conky
-conli
-conn
 connach
 connaisseur
 connaraceae
@@ -64611,7 +64584,6 @@ contermine
 conterminous
 conterminously
 conterraneous
-contes
 contessa
 contesseration
 contest
@@ -80146,7 +80118,6 @@ dervishes
 dervishhood
 dervishism
 dervishlike
-des
 desacralization
 desacralize
 desagrement
@@ -126097,7 +126068,6 @@ greeve
 greffe
 greffier
 greffotome
-greg
 gregal
 gregale
 gregaloid
@@ -161696,8 +161666,6 @@ lafayette
 lafite
 laft
 lag
-lagan
-lagans
 lagarto
 lagen
 lagena
@@ -165925,7 +165893,6 @@ licentious
 licentiously
 licentiousness
 licet
-lich
 licham
 lichanos
 lichee
@@ -165973,11 +165940,6 @@ lichi
 lichis
 lichnophora
 lichnophoridae
-licht
-lichted
-lichting
-lichtly
-lichts
 lichwake
 licinian
 licit
@@ -166595,7 +166557,6 @@ limitedness
 limiteds
 limiter
 limiters
-limites
 limiting
 limitive
 limitless
@@ -167515,7 +167476,6 @@ literatus
 literose
 literosity
 liters
-lites
 lithaemia
 lithaemic
 lithagogue
@@ -167743,7 +167703,6 @@ litorinoid
 litotes
 litre
 litres
-lits
 litsea
 litster
 litten
@@ -179602,7 +179561,6 @@ miacis
 miae
 miami
 miamia
-mian
 miao
 miaotse
 miaotze
@@ -180755,7 +180713,6 @@ miliarial
 miliarias
 miliarium
 miliary
-milice
 milicent
 milieu
 milieus
@@ -290166,7 +290123,6 @@ staddlestone
 staddling
 stade
 stader
-stades
 stadholder
 stadholderate
 stadholdership
@@ -290383,7 +290339,6 @@ stalactitically
 stalactitied
 stalactitiform
 stalactitious
-stalag
 stalagma
 stalagmite
 stalagmites
@@ -319344,7 +319299,6 @@ trysts
 tryt
 trytophan
 tryworks
-ts
 tsade
 tsades
 tsadi
