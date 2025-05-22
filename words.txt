@@ -27321,7 +27321,6 @@ barouchet
 barouchette
 barouni
 baroxyton
-barpost
 barquantine
 barque
 barquentine
@@ -27363,7 +27362,6 @@ barranco
 barrancos
 barrandite
 barras
-barrat
 barrater
 barraters
 barrator
@@ -50036,12 +50034,10 @@ cerasin
 cerastes
 cerastium
 cerasus
-cerat
 cerata
 cerate
 ceratectomy
 cerated
-cerates
 ceratiasis
 ceratiid
 ceratiidae
@@ -50479,9 +50475,7 @@ cesspit
 cesspits
 cesspool
 cesspools
-cest
 cestas
-ceste
 cesti
 cestida
 cestidae
@@ -92162,7 +92156,6 @@ eably
 eaceworm
 each
 eachwhere
-ead
 eadi
 eadios
 eadish
@@ -114830,7 +114823,6 @@ fothering
 fotive
 fotmal
 fotui
-fou
 foud
 foudroyant
 fouett
@@ -142528,7 +142520,6 @@ iffiest
 iffiness
 iffinesses
 iffy
-ifint
 ifreal
 ifree
 ifrit
@@ -157942,7 +157933,6 @@ kedjave
 kedlock
 kedushah
 kedushshah
-kee
 keech
 keef
 keefs
@@ -158019,9 +158009,6 @@ keeshond
 keeshonden
 keeshonds
 keeslip
-keest
-keester
-keesters
 keet
 keets
 keeve
@@ -204644,8 +204631,6 @@ omentulum
 omentum
 omentums
 omentuta
-omer
-omers
 omicron
 omicrons
 omikron
@@ -221967,7 +221952,6 @@ perennity
 perequitate
 pererrate
 pererration
-peres
 pereskia
 pereundem
 perezone
@@ -233165,7 +233149,6 @@ ponja
 ponograph
 ponos
 pons
-pont
 pontac
 pontacq
 pontage
@@ -233174,12 +233157,10 @@ pontederia
 pontederiaceae
 pontederiaceous
 pontee
-pontes
 pontiac
 pontiacs
 pontianac
 pontianak
-pontic
 ponticello
 ponticellos
 ponticular
@@ -233200,8 +233181,6 @@ pontificates
 pontificating
 pontification
 pontificator
-pontifice
-pontifices
 pontificial
 pontificially
 pontificious
@@ -234300,7 +234279,6 @@ posthypnotic
 posthypophyseal
 posthypophysis
 posthysterical
-postic
 postical
 postically
 postiche
@@ -293472,7 +293450,6 @@ straths
 strathspey
 strathspeys
 strati
-stratic
 straticulate
 straticulation
 stratification
@@ -316633,7 +316610,6 @@ treppe
 treron
 treronidae
 treroninae
-tres
 tresaiel
 tresance
 tresche
@@ -316946,7 +316922,6 @@ triceratopses
 triceria
 tricerion
 tricerium
-trices
 trichatrophia
 trichauxis
 trichechidae
