@@ -41718,7 +41718,6 @@ buprestidan
 buprestis
 buqsha
 buqshas
-bur
 bura
 buran
 burans
@@ -42066,7 +42065,6 @@ bursati
 bursattee
 bursautee
 bursch
-burse
 bursectomy
 burseed
 burseeds
@@ -42102,7 +42100,6 @@ burthensome
 burton
 burtonization
 burtonize
-burtons
 burtree
 burucha
 burundi
@@ -75748,7 +75745,6 @@ debunking
 debunkment
 debunks
 deburr
-deburse
 debus
 debused
 debusing
@@ -77833,7 +77829,6 @@ delegatus
 deleing
 delenda
 deleniate
-deles
 delesseria
 delesseriaceae
 delesseriaceous
@@ -201159,7 +201154,6 @@ notungulata
 notungulate
 notus
 notwithstanding
-nou
 nouche
 nougat
 nougatine
@@ -202563,7 +202557,6 @@ obrogated
 obrogating
 obrogation
 obrotund
-obs
 obscene
 obscenely
 obsceneness
@@ -230463,7 +230456,6 @@ ploying
 ployment
 ploys
 pltano
-plu
 pluchea
 pluck
 pluckage
@@ -230800,7 +230792,6 @@ plutella
 pluteus
 pluteuses
 pluteutei
-pluto
 plutocracies
 plutocracy
 plutocrat
@@ -230824,7 +230815,6 @@ plutonium
 plutonomic
 plutonomist
 plutonomy
-plutons
 plutter
 plutus
 pluvial
@@ -262804,7 +262794,6 @@ rinncefada
 rinneite
 rinner
 rinning
-rins
 rinsable
 rinse
 rinsed
@@ -274549,7 +274538,6 @@ semsem
 semsen
 semuncia
 semuncial
-sen
 sena
 senaah
 senachie
@@ -274570,7 +274558,6 @@ senatorially
 senatorian
 senators
 senatorship
-senatory
 senatress
 senatrices
 senatrix
@@ -274697,7 +274684,6 @@ sensationistic
 sensationless
 sensations
 sensatorial
-sensatory
 sense
 sensed
 senseful
@@ -275369,7 +275355,6 @@ sergiu
 sergius
 serglobulin
 sergt
-seri
 serial
 serialisation
 serialise
@@ -275449,7 +275434,6 @@ seringa
 seringal
 seringas
 seringhi
-serins
 serinus
 serio
 seriocomedy
@@ -275970,7 +275954,6 @@ setnet
 setoff
 setoffs
 seton
-setons
 setophaga
 setophaginae
 setophagine
@@ -280538,7 +280521,6 @@ sisal
 sisalana
 sisals
 siscowet
-sise
 sisel
 siserara
 siserary
@@ -312638,7 +312620,6 @@ toastmistress
 toastmistresses
 toasts
 toasty
-toat
 toatoa
 tob
 toba
@@ -312738,7 +312719,6 @@ toddy
 toddyize
 toddyman
 toddymen
-tode
 todea
 todelike
 todidae
@@ -312955,7 +312935,6 @@ tolerative
 tolerator
 tolerators
 tolerism
-toles
 toletan
 toleware
 tolfraedic
